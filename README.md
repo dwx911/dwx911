@@ -17,5 +17,5 @@
 </p>
 <br>
 <p align="center">
-    ![ ](https://github-readme-stats.vercel.app/api?username=dwx911&show_icons=true&theme=gruvbox)
+    <img src="https://github-readme-stats.vercel.app/api/?username=dwx911&amp;title_color=674fc9&amp;text_color=9f9f9f&amp;show_icons=true&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=674fc9&amp;hide_title=true&amp;count_private=true" style="max-width: 100%;">
 </P>
