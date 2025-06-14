@@ -15,3 +15,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,css,html,cs,python">
 </p>
+<br>
+<p align="center">
+    ![ ](https://github-readme-stats.vercel.app/api?username=dwx911&show_icons=true&theme=gruvbox)
+</P>
