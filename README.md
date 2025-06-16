@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,css,html,cs,python">
+  <img src="https://skillicons.dev/icons?i=css,cs,cpp,htnk,python">
 </p>
 <br>
 <p align="center">
